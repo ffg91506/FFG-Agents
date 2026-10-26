@@ -87,3 +87,8 @@ Section order:
 - When a task is blocked on info, recommend the matching status (e.g. Missing Information) plus the exact update text. Apply it only after Ayrica says yes.
 - Get the requester right: DMCS payroll reports are requested **from the client** (Waiting on Client), not from Ayrica.
 - Info only Ayrica can give (e.g. JVP deposit/check details) goes in Ayrica's list, one bullet per transaction.
+
+## Review workflow (Ayrica 2026-10-26)
+1. Show a **visual draft in chat first**. Do NOT create the Word doc or Gmail draft until Ayrica approves or corrects it.
+2. Put **every question, approval and decision in one numbered "Your Answers Needed" section** at the top, so Ayrica can answer them all at once (e.g. "1 yes, 2 B, 3 …"). The rest of the review refers back to those numbers.
+3. After the answers come in: apply approved board changes (and log them), then create the doc and the email draft.
