@@ -92,3 +92,4 @@ Section order:
 1. Show a **visual draft in chat first**. Do NOT create the Word doc or Gmail draft until Ayrica approves or corrects it.
 2. Put **every question, approval and decision in one numbered "Your Answers Needed" section** at the top, so Ayrica can answer them all at once (e.g. "1 yes, 2 B, 3 …"). The rest of the review refers back to those numbers.
 3. After the answers come in: apply approved board changes (and log them), then create the doc and the email draft.
+- **File each item under whoever owns the NEXT action.** If the next step is Ayrica's (a decision, info only she has, a review), it goes ONLY in "Your Answers Needed", never under Customer Service. Customer Service sections hold only work Customer Service can do right now. Jay's work gets its own section. Never list the same item in two places.
