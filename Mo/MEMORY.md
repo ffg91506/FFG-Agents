@@ -53,7 +53,7 @@ Ayrica Avery, CEO of The Five Fold Group (FFG), Burbank, CA (4100 W. Alameda Ave
 - **QBO:** 14 Inbound; repeat declines (BDGE, Shft Media, Rayshawn Reed). October Price shows $75 on several accounts billed $85 in master roster. Possible discrepancy, needs verification.
 
 ## Open questions for Ayrica
-- Which is the **5th board** for Phase One? (Candidate: 2026 Bank Statement & Report Management, 18428641652.)
+- 5th board: parked by Ayrica 2026-10-26 (revisit later).
 - Who is "Erica Avery" (named Account Manager in PM SOP)? Same as Ayrica?
 - Is Joanie still active? (monday shows last activity July 2025.)
 - Is the $85 → $75 QBO price change in October intentional?
@@ -61,3 +61,21 @@ Ayrica Avery, CEO of The Five Fold Group (FFG), Burbank, CA (4100 W. Alameda Ave
 ## Current priorities
 1. Phase One audit, starting with Step 1 inventory + Step 2 findings
 2. Daily brief focused on past due / due today / pending info
+
+## Daily Task Review – output format (set by Ayrica 2026-10-26)
+Deliverable every day: a **Word doc** (`Mo/reports/YYYY-MM-DD_FFG_Daily_Task_Review.docx`) plus a **Gmail draft to Ayrica** (ayrica@thefivefoldgroup.com) for approval. Draft only, never sent. Bullets, each with a clear action step and owner (rep), so a section can be delegated by email **only when Ayrica asks** (draft first).
+Section order:
+1. **For Ayrica:** decisions and items only Ayrica can do (this is Ayrica's personal daily task review)
+2. **Inbound Customer Service to Resolve:** `Task item – next step`, plus `Task item – summary of steps to put in the update` (all boards' Inbound groups)
+3. **Missing Information – Waiting on Client:** `Client – Document missing – Due date`
+4. **Missing Information – Waiting on Internal Team:** `Client – Document missing – Due date`
+5. **ALERT: Missing Bank Statements:** CS to set Waiting on Client vs Waiting On Internal Team
+6. **Organization Items That Need Updated:** `Group – Task label – Due date missing / column missing`, and `Group – Task label – Updates/Comments/Summary missing`
+7. **Current Tasks Due Today by Client & Representative:** client heading (e.g. "JVP – Johnston Vidal Projects"), all reps grouped under it: `Rep – Task – Description`
+8. **Past Due Tasks by Client & Representative:** same grouping: `Rep – Task – Description – Due date`
+- The email carries the full detail except the long lists (past-due lines, no-due-date list), which are in the Word doc. Gmail attachments aren't added automatically yet; the doc lives in Mo/reports/ (git-ignored because it contains client data).
+- Treat FFG (internal books) statement requests as internal, not client follow-ups.
+- Flag task notes copied from an earlier month as stale; never use them as current facts.
+
+## Baseline update 2026-10-26 (full Monthly pull, all months)
+147 past due (excl. waiting/paused), 12 due today, 37 Missing Bank Statements tasks across 18 accounts, 58 with no due date, 65 Pause Work (Realignment Method ×60, BBS ×5), 31 tasks on a deleted status label. June–Sept groups still hold 89 tasks with no status and 56 stuck in Sent for Review.
