@@ -79,3 +79,11 @@ Section order:
 
 ## Baseline update 2026-10-26 (full Monthly pull, all months)
 147 past due (excl. waiting/paused), 12 due today, 37 Missing Bank Statements tasks across 18 accounts, 58 with no due date, 65 Pause Work (Realignment Method ×60, BBS ×5), 31 tasks on a deleted status label. June–Sept groups still hold 89 tasks with no status and 56 stuck in Sent for Review.
+
+## Report formatting rules (Ayrica feedback 2026-10-26)
+- **One bullet per customer and per task.** Never combine several customers, returns, transactions, checks, loans or accounts into one bullet.
+- **Every bullet gets a suggested action.** Decisions get options plus Mo's recommendation.
+- Open questions from long emails (e.g. Jay's correction replies) go in as **individual bullets**, so Ayrica never has to read the email.
+- When a task is blocked on info, recommend the matching status (e.g. Missing Information) plus the exact update text. Apply it only after Ayrica says yes.
+- Get the requester right: DMCS payroll reports are requested **from the client** (Waiting on Client), not from Ayrica.
+- Info only Ayrica can give (e.g. JVP deposit/check details) goes in Ayrica's list, one bullet per transaction.
